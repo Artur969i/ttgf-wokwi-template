@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Este proyecto es un decodificador de binario a display de 7 segmentos. Su trabajo es leer un número en código binario de 4 bits (unos y ceros) y traducirlo para encender las rayitas correctas de una pantalla digital y mostrar un número del 0 al 9.
 
 ## How to test
 
-Explain how to use your project
+Para probar el circuito, solo debes iniciar la simulación con el botón verde de encendido, mover las palanquitas rojas para elegir una combinación binaria y presionar el botón de reloj ("Paso") para que el sistema actualice la pantalla. Al instante verás cómo los cables con corriente se iluminan en verde brillante y el display de la derecha dibuja el número decimal correspondiente.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Si quisieras construir este circuito en la vida real, necesitarías un display LED de 7 segmentos para mostrar los números, una cajita de 4 interruptores (DIP switch) para ingresar los datos, dos botones pulsadores para el reinicio y el reloj, resistencias para proteger los componentes y una fuente de energía de 5 voltios con conexión a tierra
